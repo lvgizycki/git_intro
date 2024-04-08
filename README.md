@@ -1,1 +1,2 @@
-"Luke von Gizycki" 
+Luke von Gizycki
+vongizyl@oregonstate.edu
